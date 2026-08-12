@@ -1,4 +1,3 @@
-Markdown
 # Welcome to my homepage
 
 I am a national postdoctoral fellow at Tata Institute of fundamental Research, Mumbai.
